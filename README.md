@@ -135,4 +135,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ttkthemes](https://ttkthemes.readthedocs.io/) for modern UI themes
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Senuka Penula
